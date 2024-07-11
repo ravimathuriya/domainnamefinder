@@ -1,5 +1,8 @@
-.App {
+body {
   text-align: center;
+  background-color: #282c34;
+  color: whitesmoke;
+  margin-bottom: 30px;
 }
 
 .App-logo {
@@ -32,7 +35,46 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+
+.search {
+  position: relative;
+  display: flex;
+}
+
+.search input {
+  height: 50px;
+  text-indent: 30px;
+  border: 2px solid #d6d4d4;
+}
+
+
+.list-group-item {
+  color: white;
+  text-align: center;
+  background: #5d3d9d;
+  width: 300px;
+
+}
+
+.list-group-item a {
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+}
+
+.list-group-item a:hover {
+  color: yellow;
+}
+
+.result-container {
+  display: flex;
+  flex-wrap: wrap;
 }
