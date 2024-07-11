@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/domainnamefinder/static/css/main.1df85642.css",
+    "main.js": "/domainnamefinder/static/js/main.3446c796.js",
+    "static/js/453.0990bc67.chunk.js": "/domainnamefinder/static/js/453.0990bc67.chunk.js",
+    "index.html": "/domainnamefinder/index.html",
+    "main.1df85642.css.map": "/domainnamefinder/static/css/main.1df85642.css.map",
+    "main.3446c796.js.map": "/domainnamefinder/static/js/main.3446c796.js.map",
+    "453.0990bc67.chunk.js.map": "/domainnamefinder/static/js/453.0990bc67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1df85642.css",
+    "static/js/main.3446c796.js"
+  ]
+}
